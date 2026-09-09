@@ -10,13 +10,9 @@ Repositorio oficial del equipo para el desarrollo de la asignación práctica ba
 
 
 ---
-
-## 📑 1. Análisis del Pilar de Seguridad (AWS)
-*Breve descripción de los puntos clave analizados de la guía oficial de seguridad en la nube.*
-
 ## 📑 1. Análisis del Pilar de Seguridad (AWS)
 
-*Breve descripción de los principales aspectos analizados en el Pilar de Seguridad de AWS.*
+*Se analizan los mecanismos utilizados para proteger los recursos y datos en la nube, incluyendo la gestión de identidades y permisos, la detección de amenazas e incidentes, la protección de la información mediante cifrado y los controles de seguridad aplicados a la infraestructura.*
 
 * **Gestión de Identidades y Accesos (IAM):** AWS IAM permite administrar usuarios, grupos y roles mediante políticas de permisos. Esto permite aplicar el principio de mínimo privilegio, otorgando a cada identidad únicamente los permisos necesarios para realizar sus funciones.
 
