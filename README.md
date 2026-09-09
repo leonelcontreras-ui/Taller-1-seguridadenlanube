@@ -5,7 +5,8 @@ Repositorio oficial del equipo para el desarrollo de la asignación práctica ba
 ---
 
 ## 👥 Integrantes del Equipo
-* [Leonel Contreras]
+* <em>Leonel Contreras</em>
+
 
 
 ---
